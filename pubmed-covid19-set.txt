@@ -1,0 +1,1261 @@
+PMID- 33126180
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201204
+LR  - 20210110
+IS  - 1873-4235 (Electronic)
+IS  - 0956-5663 (Print)
+IS  - 0956-5663 (Linking)
+VI  - 172
+DP  - 2021 Jan 15
+TI  - COVID-19 diagnosis -A review of current methods.
+PG  - 112752
+LID - S0956-5663(20)30740-5 [pii]
+LID - 10.1016/j.bios.2020.112752 [doi]
+AB  - A fast and accurate self-testing tool for COVID-19 diagnosis has become a 
+      prerequisite to comprehend the exact number of cases worldwide and to take 
+      medical and governmental actions accordingly. SARS-CoV-2 (formerly, 2019-nCoV) 
+      infection was first reported in Wuhan (China) in December 2019, and then it has 
+      rapidly spread around the world, causing (~)14 million active cases with 
+      (~)582,000 deaths as of July 2020. The diagnosis tools available so far have been 
+      based on a) viral gene detection, b) human antibody detection, and c) viral 
+      antigen detection, among which the viral gene detection by RT-PCR has been found 
+      as the most reliable technique. In this report, the current SARS-CoV-2 detection 
+      kits, exclusively the ones that were issued an "Emergency Use Authorization" from 
+      the U.S. Food and Drug Administration, were discussed. The key structural 
+      components of the virus were presented to provide the audience with an 
+      understanding of the scientific principles behind the testing tools. The methods 
+      that are still in the early research state were also reviewed in a subsection 
+      based on the reports available so far.
+CI  - Copyright © 2020 Elsevier B.V. All rights reserved.
+FAU - Yüce, Meral
+AU  - Yüce M
+AD  - SUNUM Nanotechnology Research and Application Centre, Sabanci University, 34956, 
+      Orhanli, Tuzla, Istanbul, Turkey. Electronic address: meralyuce@sabanciuniv.edu.
+FAU - Filiztekin, Elif
+AU  - Filiztekin E
+AD  - Faculty of Engineering and Natural Sciences and, Sabanci University, 34956, 
+      Orhanli, Tuzla, Istanbul, Turkey.
+FAU - Özkaya, Korin Gasia
+AU  - Özkaya KG
+AD  - Faculty of Engineering and Natural Sciences and, Sabanci University, 34956, 
+      Orhanli, Tuzla, Istanbul, Turkey.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20201024
+PL  - England
+TA  - Biosens Bioelectron
+JT  - Biosensors & bioelectronics
+JID - 9001289
+RN  - 0 (Antibodies, Viral)
+RN  - 0 (Antigens, Viral)
+SB  - IM
+MH  - Antibodies, Viral/analysis
+MH  - Antigens, Viral/analysis
+MH  - Biosensing Techniques/instrumentation/*methods
+MH  - COVID-19/*diagnosis/immunology/virology
+MH  - COVID-19 Nucleic Acid Testing/instrumentation/methods
+MH  - COVID-19 Serological Testing/instrumentation/methods
+MH  - COVID-19 Testing/instrumentation/*methods
+MH  - Genome, Viral
+MH  - Humans
+MH  - Pandemics
+MH  - SARS-CoV-2/chemistry/genetics/immunology
+PMC - PMC7584564
+OTO - NOTNLM
+OT  - COVID-19
+OT  - Lateral flow assay
+OT  - Loop-mediated isothermal amplification
+OT  - Point of care devices
+OT  - RT-PCR
+OT  - SARS-CoV-2 detection
+OT  - SARS-CoV-2 diagnosis
+COIS- The authors declare that they have no known competing financial interests or 
+      personal relationships that could have appeared to influence the work reported in 
+      this paper.
+EDAT- 2020/10/31 06:00
+MHDA- 2020/12/15 06:00
+CRDT- 2020/10/30 20:15
+PHST- 2020/06/05 00:00 [received]
+PHST- 2020/10/01 00:00 [revised]
+PHST- 2020/10/20 00:00 [accepted]
+PHST- 2020/10/31 06:00 [pubmed]
+PHST- 2020/12/15 06:00 [medline]
+PHST- 2020/10/30 20:15 [entrez]
+AID - S0956-5663(20)30740-5 [pii]
+AID - 112752 [pii]
+AID - 10.1016/j.bios.2020.112752 [doi]
+PST - ppublish
+SO  - Biosens Bioelectron. 2021 Jan 15;172:112752. doi: 10.1016/j.bios.2020.112752. 
+      Epub 2020 Oct 24.
+
+PMID- 35132910
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220210
+LR  - 20220218
+IS  - 1365-2060 (Electronic)
+IS  - 0785-3890 (Print)
+IS  - 0785-3890 (Linking)
+VI  - 54
+IP  - 1
+DP  - 2022 Dec
+TI  - Emerging COVID-19 variants and their impact on SARS-CoV-2 diagnosis, therapeutics 
+      and vaccines.
+PG  - 524-540
+LID - 10.1080/07853890.2022.2031274 [doi]
+AB  - The emergence of novel and evolving variants of SARS-CoV-2 has fostered the need 
+      for change in the form of newer and more adaptive diagnostic methods for the 
+      detection of SARS-CoV-2 infections. On the other hand, developing rapid and 
+      sensitive diagnostic technologies is now more challenging due to emerging 
+      variants and varying symptoms exhibited among the infected individuals. In 
+      addition to this, vaccines remain the major mainstay of prevention and protection 
+      against infection. Novel vaccines and drugs are constantly being developed to 
+      unleash an immune response for the robust targeting of SARS-CoV-2 and its 
+      associated variants. In this review, we provide an updated perspective on the 
+      current challenges posed by the emergence of novel SARS-CoV-2 mutants/variants 
+      and the evolution of diagnostic techniques to enable their detection. In 
+      addition, we also discuss the development, formulation, working mechanisms, 
+      advantages, and drawbacks of some of the most used vaccines/therapeutic drugs and 
+      their subsequent immunological impact.Key messageThe emergence of novel variants 
+      of the SARS-CoV-2 in the past couple of months, highlights one of the primary 
+      challenges in the diagnostics, treatment, as well as vaccine development against 
+      the virus.Advancements in SARS-CoV-2 detection include nucleic acid based, 
+      antigen and immuno- assay-based and antibody-based detection methodologies for 
+      efficient, robust, and quick testing; while advancements in COVID-19 preventive 
+      and therapeutic strategies include novel antiviral and immunomodulatory drugs and 
+      SARS-CoV-2 targeted vaccines.The varied COVID-19 vaccine platforms and the immune 
+      responses induced by each one of them as well as their ability to battle 
+      post-vaccination infections have all been discussed in this review.
+FAU - Fernandes, Queenie
+AU  - Fernandes Q
+AD  - Translational Cancer Research Facility, National Center for Cancer Care and 
+      Research, Hamad Medical Corporation, Doha, Qatar.
+AD  - College of Medicine, Qatar University, Doha, Qatar.
+FAU - Inchakalody, Varghese Philipose
+AU  - Inchakalody VP
+AD  - Translational Cancer Research Facility, National Center for Cancer Care and 
+      Research, Hamad Medical Corporation, Doha, Qatar.
+FAU - Merhi, Maysaloun
+AU  - Merhi M
+AD  - Translational Cancer Research Facility, National Center for Cancer Care and 
+      Research, Hamad Medical Corporation, Doha, Qatar.
+FAU - Mestiri, Sarra
+AU  - Mestiri S
+AD  - Translational Cancer Research Facility, National Center for Cancer Care and 
+      Research, Hamad Medical Corporation, Doha, Qatar.
+FAU - Taib, Nassiba
+AU  - Taib N
+AD  - Translational Cancer Research Facility, National Center for Cancer Care and 
+      Research, Hamad Medical Corporation, Doha, Qatar.
+FAU - Moustafa Abo El-Ella, Dina
+AU  - Moustafa Abo El-Ella D
+AD  - Translational Cancer Research Facility, National Center for Cancer Care and 
+      Research, Hamad Medical Corporation, Doha, Qatar.
+FAU - Bedhiafi, Takwa
+AU  - Bedhiafi T
+AD  - Translational Cancer Research Facility, National Center for Cancer Care and 
+      Research, Hamad Medical Corporation, Doha, Qatar.
+FAU - Raza, Afsheen
+AU  - Raza A
+AD  - Translational Cancer Research Facility, National Center for Cancer Care and 
+      Research, Hamad Medical Corporation, Doha, Qatar.
+FAU - Al-Zaidan, Lobna
+AU  - Al-Zaidan L
+AD  - Translational Cancer Research Facility, National Center for Cancer Care and 
+      Research, Hamad Medical Corporation, Doha, Qatar.
+FAU - Mohsen, Mona O
+AU  - Mohsen MO
+AD  - Translational Cancer Research Facility, National Center for Cancer Care and 
+      Research, Hamad Medical Corporation, Doha, Qatar.
+AD  - Department of Biomedical Research, Immunology RIA, University of Bern, Bern, 
+      Switzerland.
+FAU - Yousuf Al-Nesf, Mariam Ali
+AU  - Yousuf Al-Nesf MA
+AD  - Allergy and Immunology Section, Hamad General Hospital, Hamad Medical 
+      Corporation, Doha, Qatar.
+FAU - Hssain, Ali Ait
+AU  - Hssain AA
+AD  - Medical Intensive Care Unit, Hamad General Hospital, Hamad Medical Corporation, 
+      Doha, Qatar.
+FAU - Yassine, Hadi Mohamad
+AU  - Yassine HM
+AD  - Qatar University Biomedical Research Center, Qatar University, Doha, Qatar.
+FAU - Bachmann, Martin F
+AU  - Bachmann MF
+AD  - Department of Biomedical Research, Immunology RIA, University of Bern, Bern, 
+      Switzerland.
+AD  - Nuffield Department of Medicine, Jenner Institute, University of Oxford, Oxford, 
+      United Kingdom.
+FAU - Uddin, Shahab
+AU  - Uddin S
+AUID- ORCID: 0000-0003-1886-6710
+AD  - Translational Research Institute and Dermatology Institute, Academic Health 
+      System, Hamad Medical Corporation, Doha, Qatar.
+FAU - Dermime, Said
+AU  - Dermime S
+AUID- ORCID: 0000-0002-5526-7496
+AD  - Translational Cancer Research Facility, National Center for Cancer Care and 
+      Research, Hamad Medical Corporation, Doha, Qatar.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - England
+TA  - Ann Med
+JT  - Annals of medicine
+JID - 8906388
+RN  - 0 (COVID-19 Vaccines)
+RN  - 0 (Vaccines)
+RN  - SARS-CoV-2 variants
+SB  - IM
+MH  - *COVID-19
+MH  - COVID-19 Testing
+MH  - COVID-19 Vaccines
+MH  - Humans
+MH  - SARS-CoV-2
+MH  - *Vaccines
+PMC - PMC8843115
+OTO - NOTNLM
+OT  - COVID-19
+OT  - Coronaviruses
+OT  - Omicron
+OT  - SARS-CoV-2
+OT  - Viral epidemic
+OT  - diagnostic testing
+OT  - immunological responses
+OT  - vaccine
+COIS- No potential conflict of interest was reported by the author(s).
+EDAT- 2022/02/09 06:00
+MHDA- 2022/02/11 06:00
+CRDT- 2022/02/08 08:39
+PHST- 2022/02/08 08:39 [entrez]
+PHST- 2022/02/09 06:00 [pubmed]
+PHST- 2022/02/11 06:00 [medline]
+AID - 2031274 [pii]
+AID - 10.1080/07853890.2022.2031274 [doi]
+PST - ppublish
+SO  - Ann Med. 2022 Dec;54(1):524-540. doi: 10.1080/07853890.2022.2031274.
+
+PMID- 33394144
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210122
+LR  - 20220218
+IS  - 1432-0614 (Electronic)
+IS  - 0175-7598 (Print)
+IS  - 0175-7598 (Linking)
+VI  - 105
+IP  - 2
+DP  - 2021 Jan
+TI  - Detection technologies and recent developments in the diagnosis of COVID-19 
+      infection.
+PG  - 441-455
+LID - 10.1007/s00253-020-11061-5 [doi]
+AB  - COVID-19 is a disease caused by SARS-CoV-2 capable of causing mild to severe 
+      infections in humans. Since its first appearance in China in December 2019, the 
+      pandemic has spread rapidly throughout the world. Despite considerable efforts 
+      made to contain the disease, the virus has continued its prevalence in many 
+      countries with varying degrees of clinical manifestations. To contain this 
+      pandemic, collaborative approach involving accurate diagnosis, epidemiology, 
+      surveillance, and prophylaxis is essential. However, proper diagnosis using rapid 
+      technologies plays a crucial role. With increasing incidence of COVID-19 cases, 
+      the accurate and early detection of the SARS-CoV-2 is need of the hour for 
+      effective prevention and management of COVID-19 cases as well as to curb its 
+      spread. RT-qPCR assay is considered to be the gold standard for the early 
+      detection of virus, but this protocol has limited application to use as bedside 
+      test because of its technical complexity. To address these challenges, several 
+      POC assays have been developed to facilitate the COVID-19 diagnosis outside the 
+      centralized testing laboratories as well to accelerate the clinical decision 
+      making with a least turnaround time. Hence, in this report, we review different 
+      nucleic acid-based and serological techniques available for the diagnosis and 
+      effective prevention of COVID-19. KEY POINTS : • Provides comprehensive 
+      information on the different diagnostic tools available for COVID-19 • Nucleic 
+      acid based tests or antigen detection tests are used for diagnostic purpose • 
+      Accurate diagnosis is essential for the efficient management of COVID-19.
+FAU - Rai, Praveen
+AU  - Rai P
+AUID- ORCID: 0000-0002-3695-4178
+AD  - Nitte (Deemed to be University), Division of Infectious Diseases, Nitte 
+      University Centre for Science Education and Research (NUCSER), Paneer Campus, 
+      Deralakatte, Mangaluru, Karnataka, 575018, India. raiprav@nitte.edu.in.
+FAU - Kumar, Ballamoole Krishna
+AU  - Kumar BK
+AD  - Nitte (Deemed to be University), Division of Infectious Diseases, Nitte 
+      University Centre for Science Education and Research (NUCSER), Paneer Campus, 
+      Deralakatte, Mangaluru, Karnataka, 575018, India.
+FAU - Deekshit, Vijaya Kumar
+AU  - Deekshit VK
+AD  - Nitte (Deemed to be University), Division of Infectious Diseases, Nitte 
+      University Centre for Science Education and Research (NUCSER), Paneer Campus, 
+      Deralakatte, Mangaluru, Karnataka, 575018, India.
+FAU - Karunasagar, Indrani
+AU  - Karunasagar I
+AD  - Nitte (Deemed to be University), Division of Infectious Diseases, Nitte 
+      University Centre for Science Education and Research (NUCSER), Paneer Campus, 
+      Deralakatte, Mangaluru, Karnataka, 575018, India.
+FAU - Karunasagar, Iddya
+AU  - Karunasagar I
+AD  - Nitte (Deemed to be University), University Enclave, Medical Sciences Complex, 
+      Deralakatte, Mangaluru, 575018, India. iddya.karunasagar@nitte.edu.in.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210104
+PL  - Germany
+TA  - Appl Microbiol Biotechnol
+JT  - Applied microbiology and biotechnology
+JID - 8406612
+RN  - 0 (Antibodies, Viral)
+RN  - 0 (RNA, Viral)
+SB  - IM
+MH  - Antibodies, Viral/blood
+MH  - COVID-19/*diagnosis/*prevention & control/virology
+MH  - COVID-19 Nucleic Acid Testing/*methods/trends
+MH  - COVID-19 Serological Testing/*methods/trends
+MH  - Humans
+MH  - RNA, Viral/genetics
+MH  - SARS-CoV-2/genetics
+MH  - Sensitivity and Specificity
+PMC - PMC7780074
+OTO - NOTNLM
+OT  - COVID-19
+OT  - Diagnosis
+OT  - RT-LAMP
+OT  - RT-qPCR
+OT  - SARS-CoV-2
+OT  - Serology
+COIS- The authors declare that they have no conflict of interest.
+EDAT- 2021/01/05 06:00
+MHDA- 2021/01/23 06:00
+CRDT- 2021/01/04 12:15
+PHST- 2020/09/09 00:00 [received]
+PHST- 2020/12/15 00:00 [accepted]
+PHST- 2020/12/07 00:00 [revised]
+PHST- 2021/01/05 06:00 [pubmed]
+PHST- 2021/01/23 06:00 [medline]
+PHST- 2021/01/04 12:15 [entrez]
+AID - 10.1007/s00253-020-11061-5 [pii]
+AID - 11061 [pii]
+AID - 10.1007/s00253-020-11061-5 [doi]
+PST - ppublish
+SO  - Appl Microbiol Biotechnol. 2021 Jan;105(2):441-455. doi: 
+      10.1007/s00253-020-11061-5. Epub 2021 Jan 4.
+
+PMID- 33664170
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210310
+LR  - 20221207
+IS  - 2532-8689 (Electronic)
+IS  - 1124-9390 (Linking)
+VI  - 29
+IP  - 1
+DP  - 2021 Mar 1
+TI  - COVID-19 pandemic: from origins to outcomes. A comprehensive review of viral 
+      pathogenesis, clinical manifestations, diagnostic evaluation, and management.
+PG  - 20-36
+AB  - Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2), the causative 
+      pathogen for the COVID-19, first emerged in Wuhan, China, in December 2019 and by 
+      March 2020, it was declared a pandemic. COVID-19 pandemic has overburdened 
+      healthcare systems in most countries and has led to massive economic losses. 
+      SARS-CoV-2 transmission typically occurs by respiratory droplets. The average 
+      incubation period is 6.4 days and presenting symptoms typically include fever, 
+      cough, dyspnea, myalgia or fatigue. While the majority of patients tend to have a 
+      mild illness, a minority of patients develop severe hypoxia requiring 
+      hospitalization and mechanical ventilation. Management is mostly supportive. 
+      However, several direct anti-viral agents, and immunomodulatory therapy with 
+      steroids and various cytokine blockers seem promising in early results. However, 
+      an effective vaccine has been established, which will help curb the pandemic.
+FAU - Ochani, RohanKumar
+AU  - Ochani R
+AD  - Department of Internal Medicine, Dow University of Health Sciences, Karachi, 
+      Pakistan.
+FAU - Asad, Ameema
+AU  - Asad A
+AD  - Department of Internal Medicine, Dow University of Health Sciences, Karachi, 
+      Pakistan.
+FAU - Yasmin, Farah
+AU  - Yasmin F
+AD  - Department of Internal Medicine, Dow University of Health Sciences, Karachi, 
+      Pakistan.
+FAU - Shaikh, Shehryar
+AU  - Shaikh S
+AD  - Department of Internal Medicine, Dow University of Health Sciences, Karachi, 
+      Pakistan.
+FAU - Khalid, Hiba
+AU  - Khalid H
+AD  - Department of Internal Medicine, Dow University of Health Sciences, Karachi, 
+      Pakistan.
+FAU - Batra, Simran
+AU  - Batra S
+AD  - Department of Internal Medicine, Dow University of Health Sciences, Karachi, 
+      Pakistan.
+FAU - Sohail, Muhammad Rizwan
+AU  - Sohail MR
+AD  - Division of Infectious Diseases, Baylor College of Medicine, Houston, Texas, USA.
+FAU - Mahmood, Syed Faisal
+AU  - Mahmood SF
+AD  - Section of Infectious Diseases, Department of Medicine, Aga Khan University, 
+      Karachi, Pakistan.
+FAU - Ochani, Rajkumar
+AU  - Ochani R
+AD  - Department of Anesthesiology, Australian Concept Infertility Medical Center, 
+      Karachi, Pakistan.
+FAU - Hussham Arshad, Mohammad
+AU  - Hussham Arshad M
+AD  - Department of Internal Medicine, Aga Khan University, Karachi, Pakistan.
+FAU - Kumar, Arjan
+AU  - Kumar A
+AD  - Department of Medical ICU, Dr. Ruth K.M. Pfau Civil Hospital Karachi, Karachi, 
+      Pakistan.
+FAU - Surani, Salim
+AU  - Surani S
+AD  - Department of Internal Medicine, Corpus Christi Medical Center, Corpus Christi, 
+      Texas, USA; Department of Internal Medicine, University of North Texas, Dallas, 
+      USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Italy
+TA  - Infez Med
+JT  - Le infezioni in medicina
+JID - 9613961
+RN  - 0 (Adrenal Cortex Hormones)
+RN  - 0 (Antiviral Agents)
+RN  - 0 (COVID-19 Vaccines)
+RN  - 0 (Immunologic Factors)
+RN  - 0 (Steroids)
+SB  - IM
+MH  - Adrenal Cortex Hormones/therapeutic use
+MH  - Air Microbiology
+MH  - Antiviral Agents/therapeutic use
+MH  - *COVID-19/complications/diagnosis/epidemiology/therapy
+MH  - COVID-19 Testing/methods
+MH  - COVID-19 Vaccines/therapeutic use
+MH  - Disease Transmission, Infectious
+MH  - Global Health/*statistics & numerical data
+MH  - Hospitalization
+MH  - Humans
+MH  - Hypoxia/etiology/therapy
+MH  - Immunization, Passive
+MH  - Immunologic Factors/therapeutic use
+MH  - Infectious Disease Incubation Period
+MH  - *Pandemics
+MH  - Primary Prevention/methods
+MH  - Respiration, Artificial
+MH  - SARS-CoV-2/classification/genetics/*pathogenicity
+MH  - Steroids/therapeutic use
+MH  - Symptom Assessment/methods
+MH  - COVID-19 Serotherapy
+EDAT- 2021/03/06 06:00
+MHDA- 2021/03/11 06:00
+CRDT- 2021/03/05 05:56
+PHST- 2021/03/05 05:56 [entrez]
+PHST- 2021/03/06 06:00 [pubmed]
+PHST- 2021/03/11 06:00 [medline]
+PST - ppublish
+SO  - Infez Med. 2021 Mar 1;29(1):20-36.
+
+PMID- 33400058
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210113
+LR  - 20221207
+IS  - 1550-7416 (Electronic)
+IS  - 1550-7416 (Linking)
+VI  - 23
+IP  - 1
+DP  - 2021 Jan 5
+TI  - Recent Developments on Therapeutic and Diagnostic Approaches for COVID-19.
+PG  - 14
+LID - 10.1208/s12248-020-00532-2 [doi]
+LID - 14
+AB  - The ongoing pandemic of coronavirus disease 2019 (COVID-19) caused by the severe 
+      acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has made a serious public 
+      health threat worldwide with millions of people at risk in a growing number of 
+      countries. Though there are no clinically approved antiviral drugs and vaccines 
+      for COVID-19, attempts are ongoing for clinical trials of several known antiviral 
+      drugs, their combination, as well as development of vaccines in patients with 
+      confirmed COVID-19. This review focuses on the latest approaches to diagnostics 
+      and therapy of COVID-19. We have summarized recent progress on the conventional 
+      therapeutics such as antiviral drugs, vaccines, anti-SARS-CoV-2 antibody 
+      treatments, and convalescent plasma therapy which are currently under extensive 
+      research and clinical trials for the treatment of COVID-19. The developments of 
+      nanoparticle-based therapeutic and diagnostic approaches have been also discussed 
+      for COVID-19. We have assessed recent literature data on this topic and made a 
+      summary of current development and future perspectives.
+FAU - Majumder, Joydeb
+AU  - Majumder J
+AD  - Department of Pharmaceutics, Ernest Mario School of Pharmacy, Rutgers, the State 
+      University of New Jersey, 160 Frelinghuysen Road, Piscataway, New Jersey, 08854, 
+      USA.
+AD  - Rutgers Cancer Institute of New Jersey, New Brunswick, New Jersey, 08903, USA.
+AD  - Environmental and Occupational Health Science Institute, Piscataway, New Jersey, 
+      08854, USA.
+FAU - Minko, Tamara
+AU  - Minko T
+AD  - Department of Pharmaceutics, Ernest Mario School of Pharmacy, Rutgers, the State 
+      University of New Jersey, 160 Frelinghuysen Road, Piscataway, New Jersey, 08854, 
+      USA. minko@pharmacy.rutgers.edu.
+AD  - Rutgers Cancer Institute of New Jersey, New Brunswick, New Jersey, 08903, USA. 
+      minko@pharmacy.rutgers.edu.
+AD  - Environmental and Occupational Health Science Institute, Piscataway, New Jersey, 
+      08854, USA. minko@pharmacy.rutgers.edu.
+LA  - eng
+GR  - R01 CA238871/CA/NCI NIH HHS/United States
+GR  - R01 CA209818/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Review
+DEP - 20210105
+PL  - United States
+TA  - AAPS J
+JT  - The AAPS journal
+JID - 101223209
+RN  - 0 (Antiviral Agents)
+RN  - 0 (COVID-19 Vaccines)
+SB  - IM
+MH  - Animals
+MH  - Antiviral Agents/adverse effects/*therapeutic use
+MH  - COVID-19/*diagnosis/*therapy/virology
+MH  - *COVID-19 Testing
+MH  - COVID-19 Vaccines/adverse effects/*therapeutic use
+MH  - Host-Pathogen Interactions
+MH  - Humans
+MH  - Immunization, Passive/adverse effects
+MH  - Predictive Value of Tests
+MH  - SARS-CoV-2/*drug effects/pathogenicity
+MH  - Treatment Outcome
+MH  - *COVID-19 Drug Treatment
+MH  - COVID-19 Serotherapy
+PMC - PMC7784226
+OTO - NOTNLM
+OT  - ARDS
+OT  - anti-SARS-CoV-2 antibody
+OT  - antiviral drugs
+OT  - antiviral vaccines
+OT  - convalescent plasma therapy
+OT  - immunotherapy
+OT  - nanotherapeutics
+COIS- The authors declare that they have no conflict of interest.
+EDAT- 2021/01/06 06:00
+MHDA- 2021/01/14 06:00
+CRDT- 2021/01/05 12:16
+PHST- 2020/09/04 00:00 [received]
+PHST- 2020/11/03 00:00 [accepted]
+PHST- 2021/01/05 12:16 [entrez]
+PHST- 2021/01/06 06:00 [pubmed]
+PHST- 2021/01/14 06:00 [medline]
+AID - 10.1208/s12248-020-00532-2 [pii]
+AID - 532 [pii]
+AID - 10.1208/s12248-020-00532-2 [doi]
+PST - epublish
+SO  - AAPS J. 2021 Jan 5;23(1):14. doi: 10.1208/s12248-020-00532-2.
+
+PMID- 33980687
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210524
+LR  - 20211217
+IS  - 1098-6618 (Electronic)
+IS  - 0893-8512 (Print)
+IS  - 0893-8512 (Linking)
+VI  - 34
+IP  - 3
+DP  - 2021 Jun 16
+TI  - Tools and Techniques for Severe Acute Respiratory Syndrome Coronavirus 2 
+      (SARS-CoV-2)/COVID-19 Detection.
+LID - 10.1128/CMR.00228-20 [doi]
+LID - e00228-20
+AB  - The coronavirus disease 2019 (COVID-19) pandemic, caused by severe acute 
+      respiratory disease coronavirus 2 (SARS-CoV-2), has led to millions of confirmed 
+      cases and deaths worldwide. Efficient diagnostic tools are in high demand, as 
+      rapid and large-scale testing plays a pivotal role in patient management and 
+      decelerating disease spread. This paper reviews current technologies used to 
+      detect SARS-CoV-2 in clinical laboratories as well as advances made for 
+      molecular, antigen-based, and immunological point-of-care testing, including 
+      recent developments in sensor and biosensor devices. The importance of the timing 
+      and type of specimen collection is discussed, along with factors such as disease 
+      prevalence, setting, and methods. Details of the mechanisms of action of the 
+      various methodologies are presented, along with their application span and known 
+      performance characteristics. Diagnostic imaging techniques and biomarkers are 
+      also covered, with an emphasis on their use for assessing COVID-19 or monitoring 
+      disease severity or complications. While the SARS-CoV-2 literature is rapidly 
+      evolving, this review highlights topics of interest that have occurred during the 
+      pandemic and the lessons learned throughout. Exploring a broad armamentarium of 
+      techniques for detecting SARS-CoV-2 will ensure continued diagnostic support for 
+      clinicians, public health, and infection prevention and control for this pandemic 
+      and provide advice for future pandemic preparedness.
+CI  - Copyright © 2021 American Society for Microbiology.
+FAU - Safiabadi Tali, Seyed Hamid
+AU  - Safiabadi Tali SH
+AD  - Department of Chemical and Materials Engineering, Gina Cody School of 
+      Engineering, Concordia University, Montréal, Québec, Canada.
+AD  - Department of Mechanical, Industrial, and Aerospace Engineering, Gina Cody School 
+      of Engineering, Concordia University, Montréal, Québec, Canada.
+FAU - LeBlanc, Jason J
+AU  - LeBlanc JJ
+AD  - Department of Pathology, Dalhousie University, Halifax, Nova Scotia, Canada 
+      jason.leblanc@nshealth.ca sana.anbuhi@concordia.ca.
+AD  - Department of Microbiology and Immunology, Dalhousie University, Halifax, Nova 
+      Scotia, Canada.
+AD  - Department of Medicine (Infectious Diseases), Dalhousie University, Halifax, Nova 
+      Scotia, Canada.
+AD  - Division of Microbiology, Department of Pathology and Laboratory Medicine, Nova 
+      Scotia Health, Halifax, Nova Scotia, Canada.
+FAU - Sadiq, Zubi
+AU  - Sadiq Z
+AD  - Department of Chemical and Materials Engineering, Gina Cody School of 
+      Engineering, Concordia University, Montréal, Québec, Canada.
+FAU - Oyewunmi, Oyejide Damilola
+AU  - Oyewunmi OD
+AD  - Department of Chemical and Materials Engineering, Gina Cody School of 
+      Engineering, Concordia University, Montréal, Québec, Canada.
+FAU - Camargo, Carolina
+AU  - Camargo C
+AD  - Department of Microbiology and Immunology, McGill University, Montréal, Québec, 
+      Canada.
+FAU - Nikpour, Bahareh
+AU  - Nikpour B
+AD  - Department of Electrical and Computer Engineering, McGill University, Montréal, 
+      Québec, Canada.
+FAU - Armanfard, Narges
+AU  - Armanfard N
+AD  - Department of Electrical and Computer Engineering, McGill University, Montréal, 
+      Québec, Canada.
+AD  - Mila-Quebec AI Institute, Montréal, Québec, Canada.
+FAU - Sagan, Selena M
+AU  - Sagan SM
+AD  - Department of Microbiology and Immunology, McGill University, Montréal, Québec, 
+      Canada.
+AD  - Department of Biochemistry, McGill University, Montréal, Québec, Canada.
+FAU - Jahanshahi-Anbuhi, Sana
+AU  - Jahanshahi-Anbuhi S
+AUID- ORCID: 0000-0002-2191-8430
+AD  - Department of Chemical and Materials Engineering, Gina Cody School of 
+      Engineering, Concordia University, Montréal, Québec, Canada 
+      jason.leblanc@nshealth.ca sana.anbuhi@concordia.ca.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20210512
+PL  - United States
+TA  - Clin Microbiol Rev
+JT  - Clinical microbiology reviews
+JID - 8807282
+SB  - IM
+MH  - Biosensing Techniques
+MH  - COVID-19/*diagnosis/*diagnostic imaging
+MH  - COVID-19 Nucleic Acid Testing/*methods
+MH  - COVID-19 Serological Testing/*methods
+MH  - Genome, Viral/genetics
+MH  - Humans
+MH  - Nucleic Acid Amplification Techniques/methods
+MH  - Point-of-Care Testing
+MH  - SARS-CoV-2/*genetics/immunology
+MH  - Specimen Handling/methods
+PMC - PMC8142517
+OTO - NOTNLM
+OT  - 2019-nCoV
+OT  - COVID-19
+OT  - NAAT
+OT  - PCR
+OT  - SARS-CoV-2
+OT  - antigen
+OT  - biomarkers
+OT  - coronavirus
+OT  - next-generation sequencing
+OT  - serology
+EDAT- 2021/05/14 06:00
+MHDA- 2021/05/25 06:00
+CRDT- 2021/05/13 05:44
+PHST- 2021/05/13 05:44 [entrez]
+PHST- 2021/05/14 06:00 [pubmed]
+PHST- 2021/05/25 06:00 [medline]
+AID - 34/3/e00228-20 [pii]
+AID - 00228-20 [pii]
+AID - 10.1128/CMR.00228-20 [doi]
+PST - epublish
+SO  - Clin Microbiol Rev. 2021 May 12;34(3):e00228-20. doi: 10.1128/CMR.00228-20. Print 
+      2021 Jun 16.
+
+PMID- 33008761
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210503
+LR  - 20221202
+IS  - 1532-2831 (Electronic)
+IS  - 1078-8174 (Print)
+IS  - 1078-8174 (Linking)
+VI  - 27
+IP  - 2
+DP  - 2021 May
+TI  - Effectiveness of COVID-19 diagnosis and management tools: A review.
+PG  - 682-687
+LID - S1078-8174(20)30197-8 [pii]
+LID - 10.1016/j.radi.2020.09.010 [doi]
+AB  - OBJECTIVE: To review the available literature concerning the effectiveness of the 
+      COVID-19 diagnostic tools. BACKGROUND: With the absence of specific 
+      treatment/vaccines for the coronavirus COVID-19, the most appropriate approach to 
+      control this infection is to quarantine people and isolate symptomatic people and 
+      suspected or infected cases. Although real-time reverse transcription-polymerase 
+      chain reaction (RT-PCR) assay is considered the first tool to make a definitive 
+      diagnosis of COVID-19 disease, the high false negative rate, low sensitivity, 
+      limited supplies and strict requirements for laboratory settings might delay 
+      accurate diagnosis. Computed tomography (CT) has been reported as an important 
+      tool to identify and investigate suspected patients with COVID-19 disease at 
+      early stage. KEY FINDINGS: RT-PCR shows low sensitivity (60-71%) in diagnosing 
+      patients with COVID-19 infection compared to the CT chest. Several studies 
+      reported that chest CT scans show typical imaging features in all patients with 
+      COVID-19. This high sensitivity and initial presentation in CT chest can be 
+      helpful in rectifying false negative results obtained from RT-PCR. As COVID-19 
+      has similar manifestations to other pneumonia diseases, artificial intelligence 
+      (AI) might help radiologists to differentiate COVID-19 from other pneumonia 
+      diseases. CONCLUSION: Although CT scan is a powerful tool in COVID-19 diagnosis, 
+      it is not sufficient to detect COVID-19 alone due to the low specificity (25%), 
+      and challenges that radiologists might face in differentiating COVID-19 from 
+      other viral pneumonia on chest CT scans. AI might help radiologists to 
+      differentiate COVID-19 from other pneumonia diseases. IMPLICATION FOR PRACTICE: 
+      Both RT-PCR and CT tests together would increase sensitivity and improve 
+      quarantine efficacy, an impact neither could achieve alone.
+CI  - Copyright © 2020 The College of Radiographers. Published by Elsevier Ltd. All 
+      rights reserved.
+FAU - Alsharif, W
+AU  - Alsharif W
+AD  - Department of Diagnostic Radiology Technology, Faculty of Applied Medical 
+      Sciences, Taibah University, Madinah, Saudi Arabia. Electronic address: 
+      Wsheref@taibahu.edu.sa.
+FAU - Qurashi, A
+AU  - Qurashi A
+AD  - Department of Diagnostic Radiology Technology, Faculty of Applied Medical 
+      Sciences, Taibah University, Madinah, Saudi Arabia. Electronic address: 
+      aaqurashi@taibahu.edu.sa.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200921
+PL  - Netherlands
+TA  - Radiography (Lond)
+JT  - Radiography (London, England : 1995)
+JID - 9604102
+SB  - IM
+MH  - Artificial Intelligence
+MH  - COVID-19/*diagnosis
+MH  - COVID-19 Nucleic Acid Testing
+MH  - COVID-19 Testing/*methods
+MH  - Humans
+MH  - Lung/diagnostic imaging
+MH  - Radiography, Thoracic/methods
+MH  - SARS-CoV-2
+MH  - Sensitivity and Specificity
+MH  - Tomography, X-Ray Computed
+PMC - PMC7505601
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - CT scan
+OT  - Consolidation
+OT  - Crazy-paving
+OT  - Ground-glass opacification
+OT  - RT-PCR
+EDAT- 2020/10/04 06:00
+MHDA- 2021/05/04 06:00
+CRDT- 2020/10/03 05:25
+PHST- 2020/08/12 00:00 [received]
+PHST- 2020/08/31 00:00 [revised]
+PHST- 2020/09/12 00:00 [accepted]
+PHST- 2020/10/04 06:00 [pubmed]
+PHST- 2021/05/04 06:00 [medline]
+PHST- 2020/10/03 05:25 [entrez]
+AID - S1078-8174(20)30197-8 [pii]
+AID - 10.1016/j.radi.2020.09.010 [doi]
+PST - ppublish
+SO  - Radiography (Lond). 2021 May;27(2):682-687. doi: 10.1016/j.radi.2020.09.010. Epub 
+      2020 Sep 21.
+
+PMID- 33322035
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201229
+LR  - 20201229
+IS  - 1999-4915 (Electronic)
+IS  - 1999-4915 (Linking)
+VI  - 12
+IP  - 12
+DP  - 2020 Dec 10
+TI  - Comparison of Rapid Antigen Tests for COVID-19.
+LID - 10.3390/v12121420 [doi]
+LID - 1420
+AB  - Reverse transcription-quantitative PCR (RT-qPCR)-based tests are widely used to 
+      diagnose coronavirus disease 2019 (COVID-19). As a result that these tests cannot 
+      be done in local clinics where RT-qPCR testing capability is lacking, rapid 
+      antigen tests (RATs) for COVID-19 based on lateral flow immunoassays are used for 
+      rapid diagnosis. However, their sensitivity compared with each other and with 
+      RT-qPCR and infectious virus isolation has not been examined. Here, we compared 
+      the sensitivity among four RATs by using severe acute respiratory syndrome 
+      coronavirus 2 (SARS-CoV-2) isolates and several types of COVID-19 patient 
+      specimens and compared their sensitivity with that of RT-qPCR and infectious 
+      virus isolation. Although the RATs read the samples containing large amounts of 
+      virus as positive, even the most sensitive RAT read the samples containing small 
+      amounts of virus as negative. Moreover, all RATs tested failed to detect viral 
+      antigens in several specimens from which the virus was isolated. The current RATs 
+      will likely miss some COVID-19 patients who are shedding infectious SARS-CoV-2.
+FAU - Yamayoshi, Seiya
+AU  - Yamayoshi S
+AUID- ORCID: 0000-0001-7768-5157
+AD  - Division of Virology, Department of Microbiology and Immunology, Institute of 
+      Medical Science, University of Tokyo, Tokyo 108-8639, Japan.
+FAU - Sakai-Tagawa, Yuko
+AU  - Sakai-Tagawa Y
+AUID- ORCID: 0000-0002-7261-4648
+AD  - Division of Virology, Department of Microbiology and Immunology, Institute of 
+      Medical Science, University of Tokyo, Tokyo 108-8639, Japan.
+FAU - Koga, Michiko
+AU  - Koga M
+AUID- ORCID: 0000-0002-3122-9735
+AD  - Division of Infectious Diseases, Advanced Clinical Research Center, Institute of 
+      Medical Science, University of Tokyo, Tokyo 108-8639, Japan.
+AD  - Department of Infectious Diseases and Applied Immunology, IMSUT Hospital of 
+      Institute of Medical Science, the University of Tokyo, Tokyo 108-8639, Japan.
+FAU - Akasaka, Osamu
+AU  - Akasaka O
+AD  - Emergency Medical Center, Fujisawa City Hospital, Kanagawa 251-8550, Japan.
+FAU - Nakachi, Ichiro
+AU  - Nakachi I
+AD  - Pulmonary Division, Department of Internal Medicine, Saiseikai Utsunomiya 
+      Hospital, Tochigi 321-0974, Japan.
+FAU - Koh, Hidefumi
+AU  - Koh H
+AD  - Division of Pulmonary Medicine, Department of Internal Medicine, Tachikawa 
+      Hospital, Tokyo 190-8531, Japan.
+FAU - Maeda, Kenji
+AU  - Maeda K
+AD  - Department of Refractory Viral Infections, National Center for Global Health and 
+      Medicine Research Institute, Tokyo 162-8655, Japan.
+FAU - Adachi, Eisuke
+AU  - Adachi E
+AUID- ORCID: 0000-0002-1623-873X
+AD  - Department of Infectious Diseases and Applied Immunology, IMSUT Hospital of 
+      Institute of Medical Science, the University of Tokyo, Tokyo 108-8639, Japan.
+FAU - Saito, Makoto
+AU  - Saito M
+AD  - Division of Infectious Diseases, Advanced Clinical Research Center, Institute of 
+      Medical Science, University of Tokyo, Tokyo 108-8639, Japan.
+AD  - Department of Infectious Diseases and Applied Immunology, IMSUT Hospital of 
+      Institute of Medical Science, the University of Tokyo, Tokyo 108-8639, Japan.
+FAU - Nagai, Hiroyuki
+AU  - Nagai H
+AD  - Department of Infectious Diseases and Applied Immunology, IMSUT Hospital of 
+      Institute of Medical Science, the University of Tokyo, Tokyo 108-8639, Japan.
+FAU - Ikeuchi, Kazuhiko
+AU  - Ikeuchi K
+AD  - Division of Infectious Diseases, Advanced Clinical Research Center, Institute of 
+      Medical Science, University of Tokyo, Tokyo 108-8639, Japan.
+AD  - Department of Infectious Diseases and Applied Immunology, IMSUT Hospital of 
+      Institute of Medical Science, the University of Tokyo, Tokyo 108-8639, Japan.
+FAU - Ogura, Takayuki
+AU  - Ogura T
+AD  - Department of Emergency Medicine and Critical Care Medicine, Saiseikai Utsunomiya 
+      Hospital, Tochigi 321-0974, Japan.
+FAU - Baba, Rie
+AU  - Baba R
+AUID- ORCID: 0000-0002-8255-1978
+AD  - Pulmonary Division, Department of Internal Medicine, Saiseikai Utsunomiya 
+      Hospital, Tochigi 321-0974, Japan.
+FAU - Fujita, Kensuke
+AU  - Fujita K
+AD  - Department of Emergency Medicine and Critical Care Medicine, Saiseikai Utsunomiya 
+      Hospital, Tochigi 321-0974, Japan.
+FAU - Fukui, Takahiro
+AU  - Fukui T
+AD  - Division of Pulmonary Medicine, Department of Internal Medicine, Tachikawa 
+      Hospital, Tokyo 190-8531, Japan.
+FAU - Ito, Fumimaro
+AU  - Ito F
+AD  - Division of Pulmonary Medicine, Department of Internal Medicine, Tachikawa 
+      Hospital, Tokyo 190-8531, Japan.
+FAU - Hattori, Shin-Ichiro
+AU  - Hattori SI
+AD  - Department of Refractory Viral Infections, National Center for Global Health and 
+      Medicine Research Institute, Tokyo 162-8655, Japan.
+FAU - Yamamoto, Kei
+AU  - Yamamoto K
+AD  - Disease Control and Prevention Center, National Center for Global Health and 
+      Medicine Hospital, Tokyo 162-8655, Japan.
+FAU - Nakamoto, Takato
+AU  - Nakamoto T
+AD  - Disease Control and Prevention Center, National Center for Global Health and 
+      Medicine Hospital, Tokyo 162-8655, Japan.
+FAU - Furusawa, Yuri
+AU  - Furusawa Y
+AD  - Division of Virology, Department of Microbiology and Immunology, Institute of 
+      Medical Science, University of Tokyo, Tokyo 108-8639, Japan.
+FAU - Yasuhara, Atsuhiro
+AU  - Yasuhara A
+AD  - Division of Virology, Department of Microbiology and Immunology, Institute of 
+      Medical Science, University of Tokyo, Tokyo 108-8639, Japan.
+FAU - Ujie, Michiko
+AU  - Ujie M
+AD  - Division of Virology, Department of Microbiology and Immunology, Institute of 
+      Medical Science, University of Tokyo, Tokyo 108-8639, Japan.
+FAU - Yamada, Shinya
+AU  - Yamada S
+AD  - Division of Virology, Department of Microbiology and Immunology, Institute of 
+      Medical Science, University of Tokyo, Tokyo 108-8639, Japan.
+FAU - Ito, Mutsumi
+AU  - Ito M
+AD  - Division of Virology, Department of Microbiology and Immunology, Institute of 
+      Medical Science, University of Tokyo, Tokyo 108-8639, Japan.
+FAU - Mitsuya, Hiroaki
+AU  - Mitsuya H
+AD  - Department of Refractory Viral Infections, National Center for Global Health and 
+      Medicine Research Institute, Tokyo 162-8655, Japan.
+FAU - Omagari, Norio
+AU  - Omagari N
+AD  - Disease Control and Prevention Center, National Center for Global Health and 
+      Medicine Hospital, Tokyo 162-8655, Japan.
+FAU - Yotsuyanagi, Hiroshi
+AU  - Yotsuyanagi H
+AD  - Division of Infectious Diseases, Advanced Clinical Research Center, Institute of 
+      Medical Science, University of Tokyo, Tokyo 108-8639, Japan.
+AD  - Department of Infectious Diseases and Applied Immunology, IMSUT Hospital of 
+      Institute of Medical Science, the University of Tokyo, Tokyo 108-8639, Japan.
+FAU - Iwatsuki-Horimoto, Kiyoko
+AU  - Iwatsuki-Horimoto K
+AD  - Division of Virology, Department of Microbiology and Immunology, Institute of 
+      Medical Science, University of Tokyo, Tokyo 108-8639, Japan.
+FAU - Imai, Masaki
+AU  - Imai M
+AD  - Division of Virology, Department of Microbiology and Immunology, Institute of 
+      Medical Science, University of Tokyo, Tokyo 108-8639, Japan.
+FAU - Kawaoka, Yoshihiro
+AU  - Kawaoka Y
+AD  - Division of Virology, Department of Microbiology and Immunology, Institute of 
+      Medical Science, University of Tokyo, Tokyo 108-8639, Japan.
+AD  - Department of Pathobiological Sciences, School of Veterinary Medicine, University 
+      of Wisconsin-Madison, Madison, WI 53706, USA.
+AD  - Department of Special Pathogens, International Research Center for Infectious 
+      Diseases, Institute of Medical Science, University of Tokyo, Tokyo 108-8639, 
+      Japan.
+LA  - eng
+GR  - JP19fk0108113/Japan Agency for Medical Research and Development/International
+GR  - JP19fk0108166/Japan Agency for Medical Research and Development/International
+GR  - JP20nk0101612/Japan Agency for Medical Research and Development/International
+GR  - JP20nk0101614/Japan Agency for Medical Research and Development/International
+GR  - JP20nk0101603/Japan Agency for Medical Research and Development/International
+GR  - JP19fm0108006/Japan Agency for Medical Research and Development/International
+GR  - JP20wm0125002/Japan Agency for Medical Research and Development/International
+GR  - HHSN272201400008C/AI/NIAID NIH HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20201210
+PL  - Switzerland
+TA  - Viruses
+JT  - Viruses
+JID - 101509722
+RN  - 0 (Antigens, Viral)
+SB  - IM
+MH  - Antigens, Viral/*analysis
+MH  - COVID-19/*diagnosis
+MH  - COVID-19 Serological Testing/*methods
+MH  - False Negative Reactions
+MH  - Humans
+MH  - Immunoassay
+MH  - *Point-of-Care Systems
+MH  - Real-Time Polymerase Chain Reaction
+MH  - SARS-CoV-2/immunology/*isolation & purification
+MH  - Sensitivity and Specificity
+MH  - Specimen Handling
+PMC - PMC7764512
+OTO - NOTNLM
+OT  - COVID-19
+OT  - SARS-CoV-2
+OT  - diagnosis
+OT  - rapid antigen test
+COIS- Yoshihiro Kawaoka obtained funds to organize a symposium, “Influenza and Other 
+      Infections” in 2019 from TAUNS Laboratories, Inc. Kei Yamamoto has received grant 
+      support from Fujirebio, Inc.
+EDAT- 2020/12/17 06:00
+MHDA- 2020/12/30 06:00
+CRDT- 2020/12/16 01:02
+PHST- 2020/11/12 00:00 [received]
+PHST- 2020/11/28 00:00 [revised]
+PHST- 2020/12/08 00:00 [accepted]
+PHST- 2020/12/16 01:02 [entrez]
+PHST- 2020/12/17 06:00 [pubmed]
+PHST- 2020/12/30 06:00 [medline]
+AID - v12121420 [pii]
+AID - viruses-12-01420 [pii]
+AID - 10.3390/v12121420 [doi]
+PST - epublish
+SO  - Viruses. 2020 Dec 10;12(12):1420. doi: 10.3390/v12121420.
+
+PMID- 33308664
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201224
+LR  - 20230303
+IS  - 0019-5707 (Print)
+IS  - 0019-5707 (Electronic)
+IS  - 0019-5707 (Linking)
+VI  - 67
+IP  - 4S
+DP  - 2020 Dec
+TI  - Benefits and limitations of serological assays in COVID-19 infection.
+PG  - S163-S166
+LID - S0019-5707(20)30128-1 [pii]
+LID - 10.1016/j.ijtb.2020.07.034 [doi]
+AB  - Accurate and rapid diagnostic tests are critical for achieving control of 
+      coronavirus disease 2019 (covid-19), a pandemic illness caused by severe acute 
+      respiratory syndrome coronavirus 2 (SARS-CoV-2). Diagnostic tests for covid-19 
+      fall into two main categories: molecular tests that detect viral RNA, and 
+      serological tests that detect anti-SARS-CoV-2 immunoglobulins. Reverse 
+      transcriptase polymerase chain reaction (RT-PCR), a molecular test, has become 
+      the gold standard for diagnosis of covid-19; however, this test has many 
+      limitations that include potential false negative results, changes in diagnostic 
+      accuracy over the disease course, and precarious availability of test materials. 
+      Serological tests have generated substantial interest as an alternative or 
+      complement to RT-PCR and other Nucleic acid tests in the diagnosis of acute 
+      infection, as some might be cheaper and easier to implement at the point of care. 
+      A clear advantage of these tests over RT-PCR is that they can identify 
+      individuals previously infected by SARS-CoV-2, even if they never underwent 
+      testing while acutely ill. Many serological tests for covid-19 have become 
+      available in a short period, including some marketed for use as rapid, 
+      point-of-care tests. The pace of development has, however, exceeded that of 
+      rigorous evaluation, and important uncertainty about test accuracy remains.
+CI  - Copyright © 2020 Tuberculosis Association of India. Published by Elsevier B.V. 
+      All rights reserved.
+FAU - Sidiq, Zeeshan
+AU  - Sidiq Z
+AD  - New Delhi Tuberculosis Centre, JLN Marg, New Delhi, India.
+FAU - Hanif, M
+AU  - Hanif M
+AD  - New Delhi Tuberculosis Centre, JLN Marg, New Delhi, India. Electronic address: 
+      irldlndc@rntcp.org.
+FAU - Dwivedi, Kaushal Kumar
+AU  - Dwivedi KK
+AD  - New Delhi Tuberculosis Centre, JLN Marg, New Delhi, India.
+FAU - Chopra, K K
+AU  - Chopra KK
+AD  - New Delhi Tuberculosis Centre, JLN Marg, New Delhi, India.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200806
+PL  - India
+TA  - Indian J Tuberc
+JT  - The Indian journal of tuberculosis
+JID - 0373027
+SB  - IM
+MH  - COVID-19/*diagnosis
+MH  - *COVID-19 Serological Testing
+MH  - Humans
+MH  - SARS-CoV-2/*isolation & purification
+MH  - Sensitivity and Specificity
+PMC - PMC7409828
+OTO - NOTNLM
+OT  - COVID-19
+OT  - IgG
+OT  - IgM
+OT  - SARS CoV-2
+OT  - Serology
+COIS- Conflicts of interest The authors have none to declare.
+EDAT- 2020/12/15 06:00
+MHDA- 2020/12/29 06:00
+CRDT- 2020/12/14 10:01
+PHST- 2020/07/24 00:00 [received]
+PHST- 2020/07/31 00:00 [accepted]
+PHST- 2020/12/15 06:00 [pubmed]
+PHST- 2020/12/29 06:00 [medline]
+PHST- 2020/12/14 10:01 [entrez]
+AID - S0019-5707(20)30128-1 [pii]
+AID - 10.1016/j.ijtb.2020.07.034 [doi]
+PST - ppublish
+SO  - Indian J Tuberc. 2020 Dec;67(4S):S163-S166. doi: 10.1016/j.ijtb.2020.07.034. Epub 
+      2020 Aug 6.
+
+PMID- 33666147
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210331
+LR  - 20210428
+IS  - 2222-1751 (Electronic)
+IS  - 2222-1751 (Linking)
+VI  - 10
+IP  - 1
+DP  - 2021 Dec
+TI  - Lessons learned 1 year after SARS-CoV-2 emergence leading to COVID-19 pandemic.
+PG  - 507-535
+LID - 10.1080/22221751.2021.1898291 [doi]
+AB  - Without modern medical management and vaccines, the severity of the Coronavirus 
+      Disease 2019 (COVID-19) pandemic caused by severe acute respiratory syndrome 
+      (SARS) coronavirus 2 (SARS-CoV-2) might approach the magnitude of 1894-plague (12 
+      million deaths) and 1918-A(H1N1) influenza (50 million deaths) pandemics. The 
+      COVID-19 pandemic was heralded by the 2003 SARS epidemic which led to the 
+      discovery of human and civet SARS-CoV-1, bat SARS-related-CoVs, Middle East 
+      respiratory syndrome (MERS)-related bat CoV HKU4 and HKU5, and other novel animal 
+      coronaviruses. The suspected animal-to-human jumping of 4 betacoronaviruses 
+      including the human coronaviruses OC43(1890), SARS-CoV-1(2003), MERS-CoV(2012), 
+      and SARS-CoV-2(2019) indicates their significant pandemic potential. The presence 
+      of a large reservoir of coronaviruses in bats and other wild mammals, culture of 
+      mixing and selling them in urban markets with suboptimal hygiene, habit of eating 
+      exotic mammals in highly populated areas, and the rapid and frequent air travels 
+      from these areas are perfect ingredients for brewing rapidly exploding epidemics. 
+      The possibility of emergence of a hypothetical SARS-CoV-3 or other novel viruses 
+      from animals or laboratories, and therefore needs for global preparedness should 
+      not be ignored. We reviewed representative publications on the epidemiology, 
+      virology, clinical manifestations, pathology, laboratory diagnostics, treatment, 
+      vaccination, and infection control of COVID-19 as of 20 January 2021, which is 1 
+      year after person-to-person transmission of SARS-CoV-2 was announced. The 
+      difficulties of mass testing, labour-intensive contact tracing, importance of 
+      compliance to universal masking, low efficacy of antiviral treatment for severe 
+      disease, possibilities of vaccine or antiviral-resistant virus variants and 
+      SARS-CoV-2 becoming another common cold coronavirus are discussed.
+FAU - To, Kelvin Kai-Wang
+AU  - To KK
+AUID- ORCID: 0000-0002-1921-5824
+AD  - State Key Laboratory of Emerging Infectious Diseases, The University of Hong 
+      Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of 
+      China.
+AD  - Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of 
+      Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic 
+      of China.
+AD  - Carol Yu Centre for Infection, Li Ka Shing Faculty of Medicine, The University of 
+      Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic 
+      of China.
+AD  - Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special 
+      Administrative Region, People's Republic of China.
+FAU - Sridhar, Siddharth
+AU  - Sridhar S
+AUID- ORCID: 0000-0002-2022-8307
+AD  - State Key Laboratory of Emerging Infectious Diseases, The University of Hong 
+      Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of 
+      China.
+AD  - Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of 
+      Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic 
+      of China.
+AD  - Carol Yu Centre for Infection, Li Ka Shing Faculty of Medicine, The University of 
+      Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic 
+      of China.
+AD  - Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special 
+      Administrative Region, People's Republic of China.
+FAU - Chiu, Kelvin Hei-Yeung
+AU  - Chiu KH
+AD  - Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special 
+      Administrative Region, People's Republic of China.
+FAU - Hung, Derek Ling-Lung
+AU  - Hung DL
+AD  - Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special 
+      Administrative Region, People's Republic of China.
+FAU - Li, Xin
+AU  - Li X
+AD  - Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special 
+      Administrative Region, People's Republic of China.
+FAU - Hung, Ivan Fan-Ngai
+AU  - Hung IF
+AD  - Department of Medicine, Li Ka Shing Faculty of Medicine, The University of Hong 
+      Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of 
+      China.
+FAU - Tam, Anthony Raymond
+AU  - Tam AR
+AD  - Department of Medicine, Li Ka Shing Faculty of Medicine, The University of Hong 
+      Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of 
+      China.
+FAU - Chung, Tom Wai-Hin
+AU  - Chung TW
+AD  - Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special 
+      Administrative Region, People's Republic of China.
+FAU - Chan, Jasper Fuk-Woo
+AU  - Chan JF
+AUID- ORCID: 0000-0001-6336-6657
+AD  - State Key Laboratory of Emerging Infectious Diseases, The University of Hong 
+      Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of 
+      China.
+AD  - Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of 
+      Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic 
+      of China.
+AD  - Carol Yu Centre for Infection, Li Ka Shing Faculty of Medicine, The University of 
+      Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic 
+      of China.
+AD  - Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special 
+      Administrative Region, People's Republic of China.
+FAU - Zhang, Anna Jian-Xia
+AU  - Zhang AJ
+AUID- ORCID: 0000-0002-5087-3614
+AD  - State Key Laboratory of Emerging Infectious Diseases, The University of Hong 
+      Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of 
+      China.
+AD  - Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of 
+      Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic 
+      of China.
+AD  - Carol Yu Centre for Infection, Li Ka Shing Faculty of Medicine, The University of 
+      Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic 
+      of China.
+FAU - Cheng, Vincent Chi-Chung
+AU  - Cheng VC
+AD  - Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special 
+      Administrative Region, People's Republic of China.
+FAU - Yuen, Kwok-Yung
+AU  - Yuen KY
+AUID- ORCID: 0000-0002-2083-1552
+AD  - State Key Laboratory of Emerging Infectious Diseases, The University of Hong 
+      Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of 
+      China.
+AD  - Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of 
+      Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic 
+      of China.
+AD  - Carol Yu Centre for Infection, Li Ka Shing Faculty of Medicine, The University of 
+      Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic 
+      of China.
+AD  - Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special 
+      Administrative Region, People's Republic of China.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Emerg Microbes Infect
+JT  - Emerging microbes & infections
+JID - 101594885
+RN  - 0 (COVID-19 Vaccines)
+SB  - IM
+MH  - Animals
+MH  - COVID-19/diagnosis/*epidemiology/prevention & control/transmission
+MH  - COVID-19 Serological Testing
+MH  - COVID-19 Vaccines/immunology
+MH  - Disease Models, Animal
+MH  - Humans
+MH  - Mutation
+MH  - *SARS-CoV-2/classification/genetics/physiology
+MH  - Virus Replication
+PMC - PMC8006950
+OTO - NOTNLM
+OT  - COVID-19
+OT  - Coronavirus
+OT  - Diagnostics
+OT  - Pandemic
+OT  - Pathogenesis
+OT  - SARS-CoV-2
+OT  - Treatment
+OT  - Vaccines
+COIS- JFWC has received travel grants from Pfizer Corporation Hong Kong and Astellas 
+      Pharma Hong Kong Corporation Limited, and was an invited speaker for Gilead 
+      Sciences Hong Kong Limited and Luminex Corporation. The other authors declared no 
+      conflict of interests. The funding sources had no role in study design, data 
+      collection, analysis or interpretation or writing of the report. The 
+      corresponding authors had full access to all the data in the study and had final 
+      responsibility for the decision to submit for publication.
+EDAT- 2021/03/06 06:00
+MHDA- 2021/04/01 06:00
+CRDT- 2021/03/05 08:38
+PHST- 2021/03/06 06:00 [pubmed]
+PHST- 2021/04/01 06:00 [medline]
+PHST- 2021/03/05 08:38 [entrez]
+AID - 1898291 [pii]
+AID - 10.1080/22221751.2021.1898291 [doi]
+PST - ppublish
+SO  - Emerg Microbes Infect. 2021 Dec;10(1):507-535. doi: 
+      10.1080/22221751.2021.1898291.
